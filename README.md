@@ -1,0 +1,2 @@
+# CleanChargeDecisionScript
+会社でお掃除を決めるときにアナログな感じだったので20分ぐらいで書きました。
